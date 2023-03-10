@@ -1,0 +1,15 @@
+{
+  "id" : "https://EaSchoenholzer.github.io/IIIFtest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in EaSchoenholzer/IIIFtest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://EaSchoenholzer.github.io/IIIFtest/manifests/testIIF.json",
+    "label" : {
+      "none" : [ "Bei Winterthur" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
